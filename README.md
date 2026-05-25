@@ -2,10 +2,12 @@
 
 Repositorio de ejercicios y actividades de la materia de pruebas automatizadas usando Playwright.
 
-## ¿Qué hay aquí?
+## contexto
 
 ### g102-2026
 Actividades del grupo 102, ciclo 2026. Cada actividad explora una funcionalidad diferente de Playwright:
+
+- ** en la branch de mercado libre se encuentra la actividad de locators 
 
 - **Actividad 1 - GitHub Sign In**: automatiza el login en GitHub con credenciales inválidas y verifica que aparezca el mensaje de error.
 - **Actividad 2 - Browsers & Browser context**: lanza un browser manualmente, crea un contexto y muestra cuántos contextos tiene el browser.
